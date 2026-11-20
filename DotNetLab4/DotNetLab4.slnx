@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FileEncryptorApp/FileEncryptorApp.csproj" />
+  <Project Path="Lab4.Core/Lab4.Core.csproj" />
+  <Project Path="ProcessManagerApp/ProcessManagerApp.csproj" />
+</Solution>
